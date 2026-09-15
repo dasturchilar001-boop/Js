@@ -1,44 +1,39 @@
+let Father = prompt("Otangizni yoshi nechida");
+console.log(Father);
+let FatherName = prompt("Otangizni Ismi nima?");
+console.log(FatherName);
+let FatherSurname = prompt("Otangizni familyasi nima ");
+console.log(FatherSurname);
+let FatherWork = prompt("Otangizni Ish joyi Qayerda")
+console.log(FatherWork);
+
+alert("Salom mening otamni " + Father + " yoshlari " + FatherName + "da" + FatherWork + " Ishlaydilar" + FatherSurname +"Otamni familyasi ");
 
 
 
+let Mather = prompt("Onangizni yoshi nechida");
+console.log(Mather);
+let MatherName = prompt("Onangizni Ismi nima?");
+console.log(MatherName);
+let MatherSurname = prompt("Onangizni familyasi nima ");
+console.log(MatherSurname);
+let MatherWork = prompt("Onangizni Ish joyi Qayerda")
+console.log(MatherWork);
 
-
-let Otam = prompt("Otangizni yoshi nechida");
-console.log(Otam);
-let OtamName = prompt("Otangizni Ismi nima?");
-console.log(OtamName);
-let OtamSurname = prompt("Otangizni familyasi nima ");
-console.log(OtamSurname);
-let OtamIsh = prompt("Otangizni Ish joyi Qayerda")
-console.log(OtamIsh);
-
-alert("Salom mening otamni " + Otam + " yoshlari " + OtamName + "da" + OtamIsh + " Ishlaydilar" + OtamSurname +"Otamni familyasi ");
-
-
-
-let Onam = prompt("Onangizni yoshi nechida");
-console.log(Onam);
-let OnamName = prompt("Onangizni Ismi nima?");
-console.log(OnamName);
-let OnamSurname = prompt("Onangizni familyasi nima ");
-console.log(OnamSurname);
-let OnamIsh = prompt("Onangizni Ish joyi Qayerda")
-console.log(OnamIsh);
-
-alert("Salom mening otamni " + Onam + " yoshlari " + OnamName + "da" + OnamIsh + " Ishlaydilar" + OnamSurname +"Onamni familyasi ");
+alert("Salom mening otamni " + Mather + " yoshlari " + MatherName + "da" + MatherWork + " Ishlaydilar" + MatherSurname +"Onamni familyasi ");
 
 
 
-let Singlim = prompt("Singlingizni yoshi nechida");
-console.log(Singlim);
-let SinglimName = prompt("Singlingizni Ismi nima?");
-console.log(SinglimName);
-let SinglimSurname = prompt(" Singlingizni familyasi nima ");
-console.log(SinglimSurname);
-let SinglimIsh = prompt("Singlingizni Ish joyi Qayerda")
-console.log(SinglimIsh);
+let Sister = prompt("Singlingizni yoshi nechida");
+console.log(Sister);
+let SisterName = prompt("Singlingizni Ismi nima?");
+console.log(SisterName);
+let SisterSurname = prompt(" Singlingizni familyasi nima ");
+console.log(SisterSurname);
+let SisterWork = prompt("Singlingizni Ish joyi Qayerda")
+console.log(SisterWork);
 
-alert("Salom mening Singlimni " + Singlim + " yoshi " + SinglimName + "da" + SinglimIsh + " Ishlaydi" + SinglimSurname +"Singlimni familyasi ");
+alert("Salom mening Singlimni " + Sister + " yoshi " + SisterName + "da" + SisterWork + " Ishlaydi" + SisterSurname +"Singlimni familyasi ");
 
 
 
@@ -46,13 +41,13 @@ alert("Salom mening Singlimni " + Singlim + " yoshi " + SinglimName + "da" + Sin
 
 
 
-let Singlimm = prompt("Singlingizni yoshi nechida");
-console.log(Singlimm);
-let SinglimmName = prompt("Singlingizni Ismi nima?");
-console.log(SinglimmName);
-let SinglimmSurname = prompt(" Singlingizni familyasi nima ");
-console.log(SinglimmSurname);
-let SinglimmIsh = prompt("Singlingizni Ish joyi Qayerda")
-console.log(SinglimmIsh);
+let Sisterr = prompt("Singlingizni yoshi nechida");
+console.log(Sisterr);
+let SisterrName = prompt("Singlingizni Ismi nima?");
+console.log(SisterName);
+let SisterrSurname = prompt(" Singlingizni familyasi nima ");
+console.log(SisterrSurname);
+let SisterrWork = prompt("Singlingizni Ish joyi Qayerda")
+console.log(SisterrWork);
 
-alert("Salom mening Singlimni " + Singlimm + " yoshi " + SinglimmName + "da" + SinglimmIsh + " Ishlaydi" + SinglimmSurname +"Singlimni familyasi ");
+alert("Salom mening Singlimni " + Sisterr + " yoshi " + SisterName + "da" + SisterrWork + " Ishlaydi" + SisterrSurname +"Singlimni familyasi ");
